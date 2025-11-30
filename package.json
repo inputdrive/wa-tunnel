@@ -26,7 +26,7 @@
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
     "pino": "^8.7.0",
-    "pino-pretty": "^9.1.1",
+    "pino-pretty": "^10.3.0",
     "qrcode-terminal": "^0.12.0",
     "uint8-to-base64": "^0.2.0",
     "yargs": "^17.6.2"
